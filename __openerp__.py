@@ -4,7 +4,7 @@
     'author' : 'Mbs Standoffs, Travis Waelbroeck',
     'summary' : '',
     'description' : '',
-    'category' : 'Sales Management',
+    'category' : 'Inventory Management',
     'depends' : ['base', 'mail', 'product'],
     'data':[
     			'data/email_template.xml',
